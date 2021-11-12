@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1636730650 source:c:\users\apunt\desktop\proy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"menuAdministrador.h"
+	"menuUsuario.h"
+	"login.h"
+	"menuPrincipal.h"
+	"gotoxy.h"
+
+1636682721 source:c:\users\apunt\desktop\proy\menuadministrador.c
+	"menuAdministrador.h"
+
+1636682756 c:\users\apunt\desktop\proy\menuadministrador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636729756 source:c:\users\apunt\desktop\proy\menuusuario.c
+	"menuUsuario.h"
+
+1636729740 c:\users\apunt\desktop\proy\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stUsuario.h"
+	"login.h"
+
+1636728735 source:c:\users\apunt\desktop\proy\login.c
+	"login.h"
+
+1636658894 c:\users\apunt\desktop\proy\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"stUsuario.h"
+	"menuAdministrador.h"
+	"menuUsuario.h"
+
+1636731039 source:c:\users\apunt\desktop\proy\menuprincipal.c
+	"menuPrincipal.h"
+
+1636714557 c:\users\apunt\desktop\proy\menuprincipal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"gotoxy.h"
+	"login.h"
+
+1635546133 source:c:\users\apunt\desktop\proy\gotoxy.c
+	"gotoxy.h"
+
+1635546119 c:\users\apunt\desktop\proy\gotoxy.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1636730874 source:c:\users\apunt\desktop\proy\stusuario.c
+	"stUsuario.h"
+
+1636729740 c:\users\apunt\desktop\proy\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+
+1636674988 source:c:\users\apunt\desktop\proy\stpelicula.c
+	"stPelicula.h"
+
+1636673019 c:\users\apunt\desktop\proy\stpelicula.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+
+1636715862 source:c:\users\apunt\desktop\proy\front.c
+	"front.h"
+
+1636715498 c:\users\apunt\desktop\proy\front.h
+
