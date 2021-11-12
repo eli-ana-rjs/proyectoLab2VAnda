@@ -74,7 +74,7 @@ lista2Usuario* cargarListaUsuarios ();
 
 
 ///-------------Pasar los datos del archivo a la Lista de USUARIOS----------------------------
-
+void cargarListaDesdeArchivos (char nombreArchi[], lista2Usuario* lista);
 ///----------------Ordenados por ID----------------------
 
 

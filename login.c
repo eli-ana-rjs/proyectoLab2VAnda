@@ -1,4 +1,5 @@
 #include "login.h"
+const char nombreArchi[] = {"usuarios.dat"};
 
 void inicioSesion()
 {
@@ -6,7 +7,7 @@ void inicioSesion()
     char usuario[LONGITUD + 1] ;
     char clave[LONGITUD + 1];
     lista2Usuario * listaUsuario = iniclista2U();
-    //listaUsuario = pasarDeArchivoALista2(ARCHIUSERS,listaUsuario);
+    cargarListaDesdeArchivos(nombreArchi,listaUsuario);
     int intento = 0;
     int ingreso = 0; // F, no puedo ingresar
     int isAdmin = 0; /// cambiar por el acceso a isAdmin correspondiente

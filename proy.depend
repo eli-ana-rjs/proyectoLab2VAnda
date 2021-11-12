@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1636730650 source:c:\users\apunt\desktop\proy\main.c
+1636731277 source:c:\users\apunt\desktop\proy\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -31,7 +31,7 @@
 	"stUsuario.h"
 	"login.h"
 
-1636728735 source:c:\users\apunt\desktop\proy\login.c
+1636731607 source:c:\users\apunt\desktop\proy\login.c
 	"login.h"
 
 1636658894 c:\users\apunt\desktop\proy\login.h
@@ -71,7 +71,7 @@
 1636730874 source:c:\users\apunt\desktop\proy\stusuario.c
 	"stUsuario.h"
 
-1636729740 c:\users\apunt\desktop\proy\stusuario.h
+1636731651 c:\users\apunt\desktop\proy\stusuario.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
